@@ -1,0 +1,34 @@
+{
+  "name": "cineverse",
+  "version": "1.2.1",
+  "description": "A realtime dynamic moviedb web application that recommends best movies according to thier overall ratings. This web applications is designed by using VanillaJS and API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UmangUdit96/CineVerse.git"
+  },
+  "keywords": [
+    "tmdb-movie-search",
+    "tmdb-api",
+    "movie-recommendation",
+    "movie-database-system",
+    "tmdb-movie",
+    "html",
+    "css",
+    "vanilla-javascript"
+  ],
+  "author": "Umang Udit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UmangUdit96/CineVerse/issues"
+  },
+  "homepage": "https://github.com/UmangUdit96/CineVerse#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "vanilla-js": "^0.0.1",
+    "vite": "^4.3.9"
+  }
+}
